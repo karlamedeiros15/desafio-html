@@ -1,0 +1,33 @@
+h1 {
+    padding:0px 690px;
+    margin: 5px;
+    border: 1px solid #000;
+    border-radius: 20px;
+    background-color:rgb(241, 192, 216);
+    color:rgb(0, 0, 0);
+    font-size: larger;
+}
+a {
+    padding:0px 700px;
+    color:rgb(0, 0, 0);
+    font-size:25px;
+}
+pre {
+    padding:0px 400px;
+    font-size:15px;
+}
+img {
+    padding:0px 650px;
+}
+ul {
+    padding:0px 0px; 
+}
+h2 {
+    padding:0px 580px;
+    font-size: medium;
+}
+#coração {
+    padding: 0px 350px;
+    color:rgb(241, 192, 216);
+    
+}
